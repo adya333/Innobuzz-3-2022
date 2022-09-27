@@ -67,7 +67,7 @@ const Header = () => {
                     {/* Contact  */}
                     <li>
                         <FaPhoneAlt className='icon'/>
-                        <Link to='/'>Contact</Link>
+                        <Link to='/ContactUs'>Contact</Link>
                     </li>
 
                 </ul>
